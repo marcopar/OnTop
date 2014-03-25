@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:text="@string/CHECKLIST"
+        android:id="@+id/bChecklist"
+        android:layout_weight="1"
+        android:textSize="18sp"
+        android:background="#151518"
+        android:layout_margin="3sp"
+        android:textColor="@android:color/primary_text_dark"
+        android:typeface="normal" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:text="@string/TEXT"
+        android:id="@+id/bText"
+        android:layout_weight="1"
+        android:textSize="18sp"
+        android:background="#151518"
+        android:layout_margin="3sp"
+        android:textColor="@android:color/primary_text_dark"
+        android:typeface="normal" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:text="@string/BROWSER"
+        android:id="@+id/bBrowser"
+        android:layout_weight="1"
+        android:textSize="18sp"
+        android:typeface="normal"
+        android:background="#151518"
+        android:layout_margin="3sp"
+        android:textColor="@android:color/primary_text_dark" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:text="@string/MAP"
+        android:id="@+id/bMap"
+        android:layout_weight="1"
+        android:textSize="18sp"
+        android:background="#151518"
+        android:layout_margin="3sp"
+        android:textColor="@android:color/primary_text_dark"
+        android:typeface="normal" />
+</LinearLayout>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OnTop</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">OnTop</string>
+    <string name="start_service">Start service</string>
+    <string name="stop_service">Stop service</string>
+    <string name="service_status">Service status</string>
+    <string name="title_activity_lock">OnTop</string>
+    <string name="available_cards">Available lists</string>
+    <string name="error_creating_the_list">Error creating the card</string>
+    <string name="error_loading_the_cards">Error loading the cards</string>
+    <string name="ontop_activated">OnTop activated</string>
+    <string name="ontop_deactivated">OnTop deactivated</string>
+    <string name="enter_name_">Enter name:</string>
+    <string name="no_name">No name</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+    <string name="add">Add</string>
+    <string name="settings">Settings</string>
+    <string name="error_creating_the_item">Error creating the item</string>
+    <string name="error_deleting_the_item">Error deleting the item</string>
+    <string name="error_loading_the_items">Error loading the items</string>
+    <string name="error_updating_item">Error updating item</string>
+    <string name="CHECKLIST">CHECKLIST</string>
+    <string name="TEXT">TEXT</string>
+    <string name="BROWSER">BROWSER</string>
+    <string name="MAP">MAP</string>
+    <string name="import_text">Import text</string>
+    <string name="source_text">Source text</string>
+    <string name="preview">Preview</string>
+
+</resources>
