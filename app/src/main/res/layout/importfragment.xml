@@ -9,7 +9,6 @@
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceSmall"
         android:text="@string/source_text"
-        android:id="@+id/textView"
         android:background="#323232"
         android:layout_weight="0"
         android:layout_margin="2dp" />
@@ -26,7 +25,6 @@
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceSmall"
         android:text="@string/preview"
-        android:id="@+id/textView"
         android:background="#323232"
         android:layout_weight="0"
         android:layout_margin="2dp" />
